@@ -4,8 +4,7 @@ Collaboration with
 
 
 Included folders:
-- Assignment3-Tests-and-Keys: the assignment test files with keys
-- Jama: the Jama Matrix library for calculating RayTracer matrices
+- Raytracer-Tests-and-Keys: the assignment test files with keys
 
 
 Included files:
@@ -41,7 +40,6 @@ RayTracer.java FULL DETAIL description:
 Imported libraries
 - io: for file input and output
 - util: for scanning files
-- Jama dot Matrix: for calculating matrix functions
 - time dot Instant: for checking program runtime
 
 Classes
