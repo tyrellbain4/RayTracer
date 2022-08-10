@@ -1,8 +1,3 @@
-Collaboration with
-- Tylan Bayley-McPherson
-- Davin Specht
-
-
 Included folders:
 - Raytracer-Tests-and-Keys: the assignment test files with keys
 
