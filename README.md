@@ -1,3 +1,5 @@
+A Java implementation of a simple raytracer.
+
 Included folders:
 - Raytracer-Tests-and-Keys: the assignment test files with keys
 
